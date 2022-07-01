@@ -56,8 +56,16 @@
     <Import Include="System.Windows.Forms" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmEjercicio1.Designer.vb">
+      <DependentUpon>frmEjercicio1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEjercicio1.vb" />
     <Compile Include="MainForm.Designer.vb">
       <DependentUpon>MainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.Designer1.vb">
+      <DependentUpon>MainForm.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
     </Compile>
     <Compile Include="MainForm.vb" />
     <Compile Include="Program.vb" />
@@ -67,6 +75,19 @@
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmEjercicio1.resx">
+      <DependentUpon>frmEjercicio1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.vb</DependentUpon>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>MainForm.Designer1.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="img" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

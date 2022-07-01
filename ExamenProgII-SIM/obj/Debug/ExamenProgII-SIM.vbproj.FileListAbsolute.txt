@@ -1,0 +1,8 @@
+C:\Users\Adalid\Documents\SharpDevelop Projects\ExamenProgII-SIM\ExamenProgII-SIM\obj\Debug\ExamenProgII-SIM.vbprojResolveAssemblyReference.cache
+C:\Users\Adalid\Documents\SharpDevelop Projects\ExamenProgII-SIM\ExamenProgII-SIM\obj\Debug\ExamenProgII_SIM.frmInicio.resources
+C:\Users\Adalid\Documents\SharpDevelop Projects\ExamenProgII-SIM\ExamenProgII-SIM\obj\Debug\ExamenProgII-SIM.vbproj.GenerateResource.Cache
+C:\Users\Adalid\Documents\SharpDevelop Projects\ExamenProgII-SIM\ExamenProgII-SIM\bin\Debug\ExamenProgII-SIM.exe
+C:\Users\Adalid\Documents\SharpDevelop Projects\ExamenProgII-SIM\ExamenProgII-SIM\bin\Debug\ExamenProgII-SIM.pdb
+C:\Users\Adalid\Documents\SharpDevelop Projects\ExamenProgII-SIM\ExamenProgII-SIM\obj\Debug\ExamenProgII-SIM.exe
+C:\Users\Adalid\Documents\SharpDevelop Projects\ExamenProgII-SIM\ExamenProgII-SIM\obj\Debug\ExamenProgII-SIM.pdb
+C:\Users\Adalid\Documents\SharpDevelop Projects\ExamenProgII-SIM\ExamenProgII-SIM\obj\Debug\ExamenProgII_SIM.frmEjercicio1.resources
